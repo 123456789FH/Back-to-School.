@@ -1,0 +1,26 @@
+{
+  "name": "بوصلة العودة | جاهزون للانطلاق",
+  "short_name": "بوصلة العودة",
+  "description": "تطبيق تفاعلي للاستعداد للعودة إلى المدرسة",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf5f5",
+  "theme_color": "#0a6b70",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
